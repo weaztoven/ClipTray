@@ -1,0 +1,34 @@
+# Maven build output
+target/
+
+# Java build artifacts and crash logs
+*.class
+*.jar
+hs_err_pid*
+
+# Local ClipTray data and logs
+*.db
+*.db-shm
+*.db-wal
+*.log
+logs/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.suo
+*.user
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files and generated packages
+*.tmp
+*.temp
+*.bak
+*.msi
+*.exe
+*.zip
